@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Tag should render correctly 1`] = `
+<View
+  style={
+    {
+      "backgroundColor": "#FFFFFF",
+      "borderColor": "#BBC0C5",
+      "borderRadius": 10,
+      "borderWidth": 1,
+      "height": 24,
+      "justifyContent": "center",
+      "paddingHorizontal": 4,
+    }
+  }
+>
+  <Text
+    accessibilityRole="text"
+    style={
+      {
+        "color": "#24272A",
+        "fontFamily": "Euclid Circular B",
+        "fontSize": 14,
+        "fontWeight": "400",
+        "letterSpacing": 0,
+        "lineHeight": 22,
+      }
+    }
+  >
+    Imported
+  </Text>
+</View>
+`;

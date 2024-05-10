@@ -1,0 +1,39 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PickComponent should render correctly 1`] = `
+<View
+  style={
+    {
+      "flex": 1,
+      "flexDirection": "row",
+    }
+  }
+>
+  <View
+    style={
+      {
+        "flex": 1,
+      }
+    }
+  >
+    <RadioButton
+      isChecked={false}
+      label="Text First"
+      onPress={[Function]}
+    />
+  </View>
+  <View
+    style={
+      {
+        "flex": 1,
+      }
+    }
+  >
+    <RadioButton
+      isChecked={true}
+      label="Text Second"
+      onPress={[Function]}
+    />
+  </View>
+</View>
+`;

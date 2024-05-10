@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AvatarIcon should render correctly 1`] = `
+<AvatarBase
+  size="32"
+  style={
+    {
+      "alignItems": "center",
+      "backgroundColor": "#FFFFFF",
+      "justifyContent": "center",
+    }
+  }
+>
+  <Icon
+    color="Default"
+    name="AddSquare"
+    size="20"
+  />
+</AvatarBase>
+`;

@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Link should render correctly 1`] = `
+<Fragment>
+  <Text
+    accessibilityRole="link"
+    accessible={true}
+    onPress={[Function]}
+    onPressIn={[Function]}
+    onPressOut={[Function]}
+    style={
+      {
+        "backgroundColor": "transparent",
+      }
+    }
+    suppressHighlighting={true}
+  >
+    <Text
+      color="Primary"
+      style={false}
+      variant="sBodyMD"
+    >
+      I'm a Link!
+    </Text>
+  </Text>
+</Fragment>
+`;
